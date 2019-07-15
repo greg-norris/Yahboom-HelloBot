@@ -3,15 +3,18 @@
     "version": "0.0.0",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "core": "*",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.3.10",
+        "Mbit_IR": "github:lzty634158/yahboom_mbit_IR"        
     },
     "files": [
         "README.md",
-        "main.ts"
+        "main.ts",
+        "Hellobot.ts"
     ],
     "testFiles": [
         "test.ts"
     ],
     "public": false,
-    "additionalFilePaths": []
+    "preferredEditor": "tsprj"
 }
