@@ -1,11 +1,11 @@
 {
     "name": "hellobot",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
         "neopixel": "github:microsoft/pxt-neopixel#v0.3.10",
-        "Mbit_IR": "github:lzty634158/yahboom_mbit_IR"        
+        "Mbit_IR": "github:lzty634158/yahboom_mbit_IR"
     },
     "files": [
         "README.md",
